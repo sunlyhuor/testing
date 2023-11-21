@@ -3,4 +3,9 @@ public class Main {
         System.out.println("Hello Huor");
         System.out.println("Hello Deth");
     }
+
+    public static void testing(){
+        System.out.println("zshdfjasdd");
+    }
+
 }
